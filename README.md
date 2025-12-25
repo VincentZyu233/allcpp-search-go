@@ -1,6 +1,6 @@
 # 漫展查询 API (Go 版本)
 
-> 基于 Go + Gin 重构的漫展查询 API，数据来源于"无差别同人站（CPP）"
+> 基于 Go + Gin 重构的漫展查询 API，数据来源于"无差别同人站（[https://www.allcpp.cn](https://www.allcpp.cn)）"
 
 ## 🔗 相关项目
 
@@ -25,7 +25,13 @@
 
 ## 🚀 快速开始
 
-### 安装依赖
+### 直接运行（推荐）
+
+仓库 [Release](https://github.com/VincentZyu233/allcpp-search-go/releases) 里面有预编译的二进制文件，下载后直接运行即可。
+
+### 从源码运行
+
+#### 安装依赖
 
 ```bash
 cd cpp_search_go
